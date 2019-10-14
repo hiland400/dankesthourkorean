@@ -1,0 +1,464 @@
+﻿l_english:
+
+#Created by Logandp7
+
+###
+### Afghanistan ###
+###
+
+### Land ###
+AFG_infantry_equipment_0:0 "아프간식 제자일"
+AFG_infantry_equipment_0_short:0 "제자일"
+AFG_infantry_equipment_0_desc:0 "제자일은 수제 무기로써 많은 곳에 쓰입니다. 제자일은 매우 개인적인 무기로서 보통의 무기들과는 다르게 장인이 만들고 매우 화려한 장식이 되어 있습니다. 제자일은 강선이 없는 머즐 장전식 화기이며 보통 플린트록 장전방식이 쓰입니다. 제자일은 현대에 와서는 매우 오래된 무기입니다."
+AFG_infantry_equipment_1:0 "엔필드 P-14"
+AFG_infantry_equipment_1_short:0 "엔필드 P-14"
+AFG_infantry_equipment_1_desc:0 "볼트액션식 엔필드 P-14는 대전쟁이 발발할 당시 영국군의 제식 소총이었습니다. 이 총은 내부에 장전되어 있는 5발 용량의 탄창을 이용해 .303 영국 탄을 쏘았습니다. 무게는 9 ½ 파운드입니다. 솜씨 좋은 사수가 쏘면 P-14는 800야드 밖의 표적도 맞출 수 있습니다. P-14는 이제 아프가니스탄의 제식 소총입니다.."
+AFG_infantry_equipment_2:0 "보병 장비 II"
+AFG_infantry_equipment_2_short:0 "화기 II"
+AFG_infantry_equipment_2_desc:0 "개인과 승무원들에게 지급되는 보병화기로 군인에게 필요로 하는 다양한 소도구들을 포함하고 있습니다. 현대화된 다수의 경기관총과 대전차총을 포함하고 있습니다."
+AFG_infantry_equipment_3:0 "보병 장비 III"
+AFG_infantry_equipment_3_short:0 "화기 III"
+AFG_infantry_equipment_3_desc:0 "개인과 승무원들에게 지급되는 보병화기로 군인에게 필요로 하는 다양한 소도구들을 포함하고 있습니다. 게다가 현대화된 개인 돌격소총과 대전차 로켓을 포함하고 있습니다."
+
+#Tanks
+
+AFG_gw_tank_equipment:0 "디스톤 트랙터 탱크"
+ 
+AFG_gw_tank_equipment_short:0 "디스톤 트랙터 탱크"
+ 
+AFG_gw_tank_equipment_desc:0 "디스톤 트랙터 탱크는 간단하게 설계된 장갑 구조로 이루어진 캐터필러 장착 트랙터입니다. 이 전차(?)는 .30 기관총과 37 mm 대전차포로 무장합니다. 이는 검은 월요일 시대의 투자물의 결과로서, 군에 매우 싼 값의 전차를 판매하겠다는 아이디어에서 나왔습니다. 하지만 당연하게도 거의 모든 군대에서 이 전차는 성능이 뒤떨어졌다는 평가를 받으면서 루마니아나 아프가니스탄과 같은 개발도상국에만 팔렸습니다."
+
+### Sea ###
+
+### Air ###
+
+###
+### German France ###
+###
+
+### Land ###
+
+FRP_EQUIPMENT_VERSION_1:0 "세리에 A"
+FRP_EQUIPMENT_VERSION_2:0 "세리에 B"
+FRP_EQUIPMENT_VERSION_3:0 "세리에 C"
+FRP_EQUIPMENT_VERSION_4:0 "세리에 D"
+FRP_EQUIPMENT_VERSION_5:0 "세리에 E"
+FRP_EQUIPMENT_VERSION_6:0 "세리에 F"
+FRP_EQUIPMENT_VERSION_7:0 "세리에 G"
+FRP_EQUIPMENT_VERSION_8:0 "세리에 H"
+FRP_EQUIPMENT_VERSION_9:0 "세리에 I"
+FRP_EQUIPMENT_VERSION_10:0 "세리에 J"
+FRP_EQUIPMENT_VERSION_11:0 "세리에 K"
+FRP_EQUIPMENT_VERSION_12:0 "세리에 L"
+FRP_EQUIPMENT_VERSION_13:0 "세리에 M"
+
+#Infantry Equip
+
+FRP_infantry_equipment_0:0 "Mle 1886 M93"
+FRP_infantry_equipment_0_short:0 "Mle 1886 M93"
+FRP_infantry_equipment_1:0 "MAS-36"
+FRP_infantry_equipment_1_short:0 "MAS-36"
+FRP_infantry_equipment_2:0 "MAS-38"
+FRP_infantry_equipment_2_short:0 "MAS-38"
+FRP_infantry_equipment_3:0 "퓨질 다쏘 43"
+FRP_infantry_equipment_3_short:0 "FDA-43"
+FRP_infantry_at:0 "판처파우스트 30"
+FRP_infantry_at2:0 "판처슈렉"
+FRP_support_weapons:0 "FM 쇼샤 & 스톡스 박격포"
+FRP_support_weapons2:0 "호치키스 M1914 & 브란트 Mle 1935"
+FRP_support_weapons3:0 "MG-42 & 8 cm 유탄발사기 34"
+FRP_support_weapons4:0 "MG-45 & 12 cm 유탄발사기42"
+
+#Motorised
+
+FRP_motorized_equipment_1:0 "시트로엥 U23"
+FRP_mechanized_equipment_1:0 "시트로엥 P107"
+FRP_mechanized_equipment_1_short:0 "시트로엥 P107"
+FRP_mechanized_equipment_2:0 "Sonderkraftfahrzeug 251"
+FRP_mechanized_equipment_2_short:0 "Sd.Kfz. 251"
+FRP_mechanized_equipment_2_desc:0 "Sd.Kfz. 251 하프트랙은 2차 세계 대전 시기에 Sd.Kfz. 11에 기반해서 하노마그사에서 처음 만들어진 장갑전투차량입니다."
+FRP_mechanized_equipment_3:0 "Sonderkraftfahrzeug 251/20"
+FRP_mechanized_equipment_3_short:0 "Sd.Kfz. 251/20"
+FRP_mechanized_equipment_3_desc:0 "적외선 스포트라이트가 장착된 Sd.Kfz. 251의 업그레이드형입니다."
+
+#Artillery
+
+FRP_artillery_equipment_1:0 "Canon de 75 mod?le 1897"
+FRP_artillery_equipment_1_short:0 "Canon de 75 mle 1897"
+FRP_artillery_equipment_2:0 "Canon de 105 L mle 1936"
+FRP_artillery_equipment_3:0 "Canon de 155mm GPF"
+
+FRP_anti_tank_equipment_1:0 "Canon de 25 mm"
+FRP_anti_tank_equipment_1_short:0 "Canon de 25 mm"
+FRP_anti_tank_equipment_2:0 "47mm SA 37"
+FRP_anti_tank_equipment_3:0 "Canon de 76 mm mod?le 1943"
+
+FRP_anti_air_equipment_1:0 "호치키스 25mm"
+FRP_anti_air_equipment_1_short:0 "호치키스 25 mm"
+FRP_anti_air_equipment_2:0 "슈나이더 37 mm"
+FRP_anti_air_equipment_3:0 "Canon de 75 CA mod?le 1940"
+
+#Tanks
+
+FRP_gw_tank_equipment:0 "르노 FT-17"
+FRP_gw_tank_equipment_short:0 "FT-17"
+FRP_light_tank_equipment_1:0 "호치키스 H35"
+FRP_light_tank_equipment_1_short:0 "H35"
+FRP_light_tank_equipment_2:0 "FCM 36"
+FRP_light_tank_equipment_2_short:0 "FCM 36"
+FRP_light_tank_destroyer_equipment_2:0 "AMR 35 ZT-3"
+FRP_light_tank_destroyer_equipment_2_short:0 "AMR 35 ZT-3"
+FRP_light_tank_equipment_3:0 "AMX 12t"
+FRP_light_tank_equipment_3_short:0 "AMX 12t"
+FRP_light_tank_artillery_equipment_3:0 "Canon de 155 mm Mle F3 Automoteur"
+FRP_light_tank_artillery_equipment_3_short:0 "F3 155 mm"
+
+FRP_medium_tank_equipment_1:1 "Renault AMC 35"
+FRP_medium_tank_equipment_1_short:1 "AMC 35"
+FRP_medium_tank_artillery_equipment_1:0 "ARL V39"
+FRP_medium_tank_artillery_equipment_1_short:0 "ARL V39"
+FRP_medium_tank_destroyer_equipment_1:0 "래플리 W15 TCC"
+FRP_medium_tank_destroyer_equipment_1_short:0 "W15 TCC"
+FRP_medium_tank_equipment_2:1 "소뮤아 S35"
+FRP_medium_tank_equipment_2_short:1 "S35"
+FRP_medium_tank_equipment_3:1 "SARL 42"
+FRP_medium_tank_equipment_3_short:1 "SARL 42"
+
+FRP_heavy_tank_equipment_1:0 "르노 B1"
+FRP_heavy_tank_equipment_1_short:0 "B1"
+FRP_heavy_tank_artillery_equipment_1:0 "Canon de 194 mle GPF"
+FRP_heavy_tank_artillery_equipment_1_short:0 "Canon de 194"
+FRP_heavy_tank_equipment_2:0 "6호 전차 티거"
+FRP_heavy_tank_equipment_2_short:0 "티거"
+#FRP_heavy_tank_equipment_2_desc:0 "티거는 1942년 독일에서 개발된 중전차입니다. 추축군의 소련 침공에서 만난 T-34나 KV-1 등의 소련 탱크에 대한 해결책으로 만들어진 전차입니다."
+FRP_heavy_tank_equipment_3:0 "6호 전차 티거 B형"
+FRP_heavy_tank_equipment_3_short:0 "티거 B형"
+#FRP_heavy_tank_equipment_3_desc:0 "비공식적인 이름인 쾨니히스티거(Konigstiger)로써 널리 알려진 전차로서, 연합군에 의해 말 그대로 킹 타이거로 번역된 이 전차는 티거와 같은 목적에서 만들어진 전차이지만 더욱 더 강력하게 만들어졌습니다. 티거 B형은 티거의 중장갑과 판터의 경사장갑으로 이루어졌습니다. 거의 70톤의 무게를 자랑하는 이 전차는 100 에서180mm의 전면장갑으로 보호받았으며 강력한 장포신 8.8 cm 전차포 43 L/71로 무장했습니다."
+FRP_heavy_tank_artillery_equipment_2:0 "슈투름티거"
+FRP_heavy_tank_artillery_equipment_2_short:0 "슈투름티거"
+#FRP_heavy_tank_artillery_equipment_3:0 "티거 대전차자주포형"
+FRP_heavy_tank_artillery_equipment_3_short:0 "GW 티거"
+FRP_heavy_tank_artillery_equipment_3_desc:0 "티거 B형의 차체로 만들어진 이 차량은, 매우 강력한 170mm K 72 L/50포를 장착할 수 있었습니다."
+#FRP_heavy_tank_destroyer_equipment_1:0 "장갑대전차자주포 VK3001(H) 슈투러 에밀"
+FRP_heavy_tank_destroyer_equipment_1_short:0 "슈투러 에밀"
+FRP_heavy_tank_destroyer_equipment_1_desc:0 "장갑자주포 VK3001(H) 슈투러 에밀('강인한 에밀'을 뜻하는 독일어)은 독일의 헨셸 차체에 장착된 VK3001 장갑대전차자주포입니다."
+#FRP_heavy_tank_destroyer_equipment_2:0 "Panzerj?ger Tiger (P)"
+FRP_heavy_tank_destroyer_equipment_2_short:0 "Elefant"
+FRP_heavy_tank_destroyer_equipment_2_desc:0 "The Elefant (Elephant) was a heavy tank destroyer based on the chassis of the cancelled Porsche Tiger Project and fitted with an 88 mm Panzerabwehrkanone 43/2 gun."
+#FRP_heavy_tank_destroyer_equipment_3:0 "Panzerj?ger Tiger Ausf. B"
+FRP_heavy_tank_destroyer_equipment_3_short:0 "Jagdtiger"
+FRP_heavy_tank_destroyer_equipment_3_desc:0 "The Jagdtiger was the heaviest armoured fighting vehicle operationally used during the Second Weltkrieg. The vehicle carried a 128 mm PaK 44 L/55 main gun, and carried heavy frontal armour."
+
+FRP_super_heavy_tank_equipment_1:0 "Panzerkampfwagen VIII Charlemagne"
+FRP_super_heavy_tank_equipment_1_short:0 "Charlemagne"
+#FRP_super_heavy_tank_equipment_1_desc:0 "Panzerkampfwagen VIII Charlemagne was a modified German Second Weltkrieg super-heavy tank (the Maus) completed in late 1944 by a combined Franco-German research team. It is the heaviest fully enclosed armoured fighting vehicle ever built. The Charlemagne's main armament was a 128 mm KwK 44 L/55 gun with an added coaxial 75 mm gun."
+FRP_super_heavy_tank_artillery_equipment_1:0 "Gesch?tzwagen E-100"
+FRP_super_heavy_tank_artillery_equipment_1_short:0 "GW E-100"
+#FRP_super_heavy_tank_artillery_equipment_1_desc:0 "A 210mm artillery gun mounted on a super heavy tank chassis, this sp gun rivals some railway guns in power."
+FRP_super_heavy_tank_destroyer_equipment_1:0 "SturmGesch?tz auf Fahrgestell Charlemagne"
+FRP_super_heavy_tank_destroyer_equipment_1_short:0 "Jagdmaus"
+#FRP_super_heavy_tank_destroyer_equipment_1_desc:0 "The chassis of a Maus with a 150mm gun in a fixed superstructure."
+FRP_super_heavy_tank_aa_equipment_1:0 "Flakpanzer VIII Charlemagne"
+FRP_super_heavy_tank_aa_equipment_1_short:0 "FlakMagne"
+#FRP_super_heavy_tank_aa_equipment_1_desc:0 "The chassis of a Maus mounting twin 88mm anti-air guns."
+
+### Sea ###
+
+### Air ###
+FRP_CAS_equipment_1:0 "Breguet Br.693"
+FRP_CAS_equipment_1_short:0 "Br.693"
+FRP_CAS_equipment_2:0 "Potez Po.633"
+FRP_CAS_equipment_2_short:0 "Po.633"
+FRP_CAS_equipment_3:0 "Loire-Nieuport LN.401"
+FRP_CAS_equipment_3_short:0 "LN.401"
+FRP_heavy_fighter_equipment_1:0 "Romano R.110"
+FRP_heavy_fighter_equipment_1_short:0 "R.110"
+FRP_heavy_fighter_equipment_2:0 "Hanriot H.220"
+FRP_heavy_fighter_equipment_2_short:0 "H.220"
+FRP_heavy_fighter_equipment_3:0 "Potez Po.670"
+FRP_heavy_fighter_equipment_3_short:0 "Po.670"
+FRP_fighter_equipment_0:0 "Loire L.46"
+FRP_fighter_equipment_0_short:0 "L.46"
+FRP_fighter_equipment_1:0 "Loire L.250"
+FRP_fighter_equipment_1_short:0 "L.250"
+FRP_fighter_equipment_2:0 "Morane-Saulnier M.S.450"
+FRP_fighter_equipment_2_short:0 "M.S.450"
+FRP_fighter_equipment_3:0 "Potez Po.230"
+FRP_fighter_equipment_3_short:0 "Po.230"
+FRP_jet_fighter_equipment_1:0 "Dassault Ouragan"
+FRP_jet_fighter_equipment_1_short:0 "Ouragan"
+FRP_nav_bomber_equipment_1:0 "Lior?-et-Olivier H.258"
+FRP_nav_bomber_equipment_1_short:0 "H.258"
+FRP_nav_bomber_equipment_2:0 "Levasseur Pl.108"
+FRP_nav_bomber_equipment_2_short:0 "Pl.108"
+FRP_nav_bomber_equipment_3:0 "SNCAO CAO.600"
+FRP_nav_bomber_equipment_3_short:0 "CAO.600"
+FRP_strat_bomber_equipment_1:0 "Farman F.222"
+FRP_strat_bomber_equipment_1_short:0 "F.222"
+FRP_strat_bomber_equipment_2:0 "SNCAC NC.223.3"
+FRP_strat_bomber_equipment_2_short:0 "NC.223.3"
+FRP_strat_bomber_equipment_3:0 "Breguet-Short Brs.302"
+FRP_strat_bomber_equipment_3_short:0 "Brs.302"
+FRP_tac_bomber_equipment_0:0 "Potez Po.540"
+FRP_tac_bomber_equipment_0_short:0 "Po.540"
+FRP_tac_bomber_equipment_1:0 "Bregeut Br.460"
+FRP_tac_bomber_equipment_1_short:0 "Br.460"
+FRP_tac_bomber_equipment_2:0 "Lior?-et-Olivier LeO.451"
+FRP_tac_bomber_equipment_2_short:0 "LeO.451"
+FRP_tac_bomber_equipment_3:0 "Potez Po.720"
+FRP_tac_bomber_equipment_3_short:0 "Po.720"
+FRP_cv_nav_bomber_equipment_1:0 "Lior?-et-Olivier H.258"
+FRP_cv_nav_bomber_equipment_1_short:0 "H.258"
+FRP_cv_nav_bomber_equipment_2:0 "Levasseur Pl.108"
+FRP_cv_nav_bomber_equipment_2_short:0 "Pl.108"
+FRP_cv_nav_bomber_equipment_3:0 "SNCAO CAO.600"
+FRP_cv_nav_bomber_equipment_3_short:0 "CAO.600"
+FRP_cv_CAS_equipment_1:0 "Breguet Br.693"
+FRP_cv_CAS_equipment_1_short:0 "Br.693"
+FRP_cv_CAS_equipment_2:0 "Potez Po.633"
+FRP_cv_CAS_equipment_2_short:0 "Po.633"
+FRP_cv_CAS_equipment_3:0 "Loire-Nieuport LN.401"
+FRP_cv_CAS_equipment_3_short:0 "LN.401"
+FRP_cv_fighter_equipment_0:0 "Loire L.46"
+FRP_cv_fighter_equipment_0_short:0 "L.46"
+FRP_cv_fighter_equipment_1:0 "Loire L.250"
+FRP_cv_fighter_equipment_1_short:0 "L.250"
+FRP_cv_fighter_equipment_2:0 "Morane-Saulnier M.S.450"
+FRP_cv_fighter_equipment_2_short:0 "M.S.450"
+FRP_cv_fighter_equipment_3:0 "Potez Po.230"
+FRP_cv_fighter_equipment_3_short:0 "Po.230"
+
+###
+### American Legion ###
+###
+
+### Land ###
+AML_infantry_equipment_0:0 "Springfield 1892-99 & Remington-Keene rifle"
+AML_infantry_equipment_0_short:0 "1899 & Remington-Keene"
+AML_infantry_equipment_0_desc:0 "Personal and crew served weapons for infantry as well as the various other bits of kit a soldier needs."
+AML_infantry_equipment_1:0 "Springfield M1903 & M1917 Enfield"
+AML_infantry_equipment_1_short:0 "M1903 & M1917."
+AML_infantry_equipment_1_desc:0 "Personal and crew served weapons for infantry as well as the various other bits of kit a soldier needs."
+AML_infantry_equipment_2:0 "M1 Garand"
+AML_infantry_equipment_2_short:0 "M1 Garand"
+AML_infantry_equipment_2_desc:0 "Personal and crew served weapons for infantry as well as the various other bits of kit a soldier needs."
+AML_infantry_equipment_3:0 "M1 Carbine"
+AML_infantry_equipment_3_short:0 "M1 Carbine"
+AML_infantry_equipment_3_desc:0 "Personal and crew served weapons for infantry as well as the various other bits of kit a soldier needs."
+
+###
+### Confederate States of America ###
+###
+
+### Land ###
+FSA_infantry_equipment_0:0 "Remington Model 03A3 Rifle"
+FSA_infantry_equipment_0_short:0 "Remington M03A3"
+FSA_infantry_equipment_0_desc:0 "Personal and crew served weapons for infantry as well as the various other bits of kit a soldier needs."
+FSA_infantry_equipment_1:0 "Remington Model 8"
+FSA_infantry_equipment_1_short:0 "Remington Model 8"
+FSA_infantry_equipment_1_desc:0 "Personal and crew served weapons for infantry as well as the various other bits of kit a soldier needs."
+FSA_infantry_equipment_2:0 "Remington Model 8 Special"
+FSA_infantry_equipment_2_short:0 "Remington Model 8 Special"
+FSA_infantry_equipment_2_desc:0 "Personal and crew served weapons for infantry as well as the various other bits of kit a soldier needs."
+FSA_infantry_equipment_3:0 "T25 Automatic Rifle"
+FSA_infantry_equipment_3_short:0 "T25"
+FSA_infantry_equipment_3_desc:0 "Personal and crew served weapons for infantry as well as the various other bits of kit a soldier needs."
+
+###
+### Great Lakes Federation ###
+###
+
+### Land ###
+CGL_infantry_equipment_0:0 "Springfield Model 1903"
+CGL_infantry_equipment_0_short:0 "Springfield M1903"
+CGL_infantry_equipment_0_desc:0 "Personal and crew served weapons for infantry as well as the various other bits of kit a soldier needs."
+CGL_infantry_equipment_1:0 "M1A3 Pedersen Rifle"
+CGL_infantry_equipment_1_short:0 "Pedersen Rifle"
+CGL_infantry_equipment_1_desc:0 "Personal and crew served weapons for infantry as well as the various other bits of kit a soldier needs."
+CGL_infantry_equipment_2:0 "M1A1 Thompson"
+CGL_infantry_equipment_2_short:0 "M1A1 Thompson"
+CGL_infantry_equipment_2_desc:0 "Personal and crew served weapons for infantry as well as the various other bits of kit a soldier needs."
+CGL_infantry_equipment_3:0 "Submachine Gun, Cal. .45, M3 'Grease Gun'"
+CGL_infantry_equipment_3_short:0 "M3 'Grease Gun'"
+CGL_infantry_equipment_3_desc:0 "Personal and crew served weapons for infantry as well as the various other bits of kit a soldier needs."
+
+###
+### Deseret ###
+###
+
+### Land ###
+DSR_infantry_equipment_0:0 "Winchester Model 1895"
+DSR_infantry_equipment_0_short:0 "Winchester Model 1895"
+DSR_infantry_equipment_0_desc:0 "The Model 1895 was the first Winchester rifle to feature a box magazine located underneath the action instead of the tubular magazine design. This allowed the rifle to safely chamber military cartridges with spitzer bullets. The M1895 was also the last of the lever-action rifles to be designed by John Browning. Besides in Deseret, the rifle would also see use during the First Weltkrieg by the Russian Empire and also during the Russian Civil War."
+DSR_infantry_equipment_1:0 "M1918 Browning Automatic Rifle"
+DSR_infantry_equipment_1_short:0 "B.A.R."
+DSR_infantry_equipment_1_desc:0 "As the primary variant of the BAR series, the M1918 is chambered for the .30-06 Springfield rifle cartridge and was designed by John Browning in 1917 as a replacement for the Chauchat and M1909 Ben?t?Merci? machine guns. It would become standard issue for the U.S. federal forces during the 2nd American Civil War."
+DSR_infantry_equipment_2:0 "Joseph Smith M42 Submachine Gun"
+DSR_infantry_equipment_2_short:0 "JS M42 SMG"
+DSR_infantry_equipment_2_desc:0 "The M42 submachine gun was designed by Carl G. Swebilius of the High Standard Manufacturing Company in 1939. An extremely simple design, it was a straight blowback, selective fire weapon. Unfortunately, they have little tolerance for exposure to large amounts of mud and sand and tend to jam if not cleaned regularly. However, proving ground tests showed it was easier to strip and maintain than the Thompson or the Canadian Sten Mark II and was more accurate at 100 yards."
+DSR_infantry_equipment_3:0 "M1918A3 Browning Battle Rifle"
+DSR_infantry_equipment_3_short:0 "B.B.R."
+DSR_infantry_equipment_3_desc:0 "A variant of the Colt Monitor Machine Rifle, it improves on the main flaw of the Monitor: ammunition capacity. At the same time, it is heavier than the Monitor which is the lightest production automatic gun to fire the .30-06 Springfield cartridge. Featuring a grip, a shorter barrel, and an extended magazine, the M1918A3 Browning Battle Rifle functions far better as an infantry rifle than the old M1918."
+
+###
+### Enclave ###
+###
+
+### Land ###
+ENC_infantry_equipment_0:0 "M1917 Enfield"
+ENC_infantry_equipment_0_short:0 "M1917 Enfield"
+ENC_infantry_equipment_0_desc:0 "Personal and crew served weapons for infantry as well as the various other bits of kit a soldier needs."
+ENC_infantry_equipment_1:0 "US Automatic Pistol, Caliber .30"
+ENC_infantry_equipment_1_short:0 "Pedersen Device"
+ENC_infantry_equipment_1_desc:0 "Personal and crew served weapons for infantry as well as the various other bits of kit a soldier needs."
+ENC_infantry_equipment_2:0 "M1 Garand"
+ENC_infantry_equipment_2_short:0 "M1 Garand"
+ENC_infantry_equipment_2_desc:0 "Personal and crew served weapons for infantry as well as the various other bits of kit a soldier needs."
+ENC_infantry_equipment_3:0 "Model 45A"
+ENC_infantry_equipment_3_short:0 "Model 45A"
+ENC_infantry_equipment_3_desc:0 "Personal and crew served weapons for infantry as well as the various other bits of kit a soldier needs."
+
+###
+### Texas ###
+###
+
+### Land ###
+TXS_infantry_equipment_0:0 "M1917 Enfield"
+TXS_infantry_equipment_0_short:0 "M1917 Enfield"
+TXS_infantry_equipment_0_desc:0 "Personal and crew served weapons for infantry as well as the various other bits of kit a soldier needs."
+TXS_infantry_equipment_1:0 "Remington Model 8"
+TXS_infantry_equipment_1_short:0 "Remington Model 8"
+TXS_infantry_equipment_1_desc:0 "Personal and crew served weapons for infantry as well as the various other bits of kit a soldier needs."
+TXS_infantry_equipment_2:0 "United Defense M42 Submachine Gun"
+TXS_infantry_equipment_2_short:0 "UD M42 SMG"
+TXS_infantry_equipment_2_desc:0 "Personal and crew served weapons for infantry as well as the various other bits of kit a soldier needs."
+TXS_infantry_equipment_3:0 "T25 Automatic Rifle"
+TXS_infantry_equipment_3_short:0 "T25"
+TXS_infantry_equipment_3_desc:0 "Personal and crew served weapons for infantry as well as the various other bits of kit a soldier needs."
+
+###
+### Pacific States of America ###
+###
+
+### Land ###
+
+CAL_EQUIPMENT_VERSION_1:0 "A1"
+CAL_EQUIPMENT_VERSION_2:0 "A2"
+CAL_EQUIPMENT_VERSION_3:0 "A3"
+CAL_EQUIPMENT_VERSION_4:0 "A4"
+CAL_EQUIPMENT_VERSION_5:0 "A5"
+CAL_EQUIPMENT_VERSION_6:0 "A6"
+CAL_EQUIPMENT_VERSION_7:0 "A7"
+CAL_EQUIPMENT_VERSION_8:0 "A8"
+CAL_EQUIPMENT_VERSION_9:0 "A9"
+CAL_EQUIPMENT_VERSION_10:0 "A9A1"
+CAL_EQUIPMENT_VERSION_11:0 "A9A2"
+CAL_EQUIPMENT_VERSION_12:0 "A9A3"
+CAL_EQUIPMENT_VERSION_13:0 "A9A4"
+
+#Infantry Equip
+
+CAL_infantry_equipment_0:0 "Winchester Model 1886"
+CAL_infantry_equipment_0_short:0 "Winchester Model 1886"
+CAL_infantry_equipment_0_desc:0 "A collection of various firearms invented before and during the Weltkrieg ranging from lever-action rifles to some semi-automatic small arms. Although God made man, and Sam Colt made men equal, John Browning keeps men free."
+CAL_infantry_equipment_1:0 "M1917 Enfield"
+CAL_infantry_equipment_1_short:0 "M1917 Enfield"
+CAL_infantry_equipment_1_desc:0 "Although aspects of the equipment such as weapons are similar to the ones produced out east, military personal on the west coast are equipped with uniforms and gear more suited to the deserts of the Mojave and the forests of Cascadia."
+CAL_infantry_equipment_2:0 "Auto-5 Shotgun"
+CAL_infantry_equipment_2_short:0 "Auto-5"
+CAL_infantry_equipment_2_desc:0 "With a new Civil War comes the need to produce higher quantities of currently exiting weapons such as the Auto-5 shotgun and the Thompson sub-machine gun along with fielding anti-tank rifles and other various new pieces of kit."
+CAL_infantry_equipment_3:0 "M10 Service Rifle"
+CAL_infantry_equipment_3_short:0 "Service Rifle"
+CAL_infantry_equipment_3_desc:0 "The revolutionary new needs of modern warfare require revolutionary new designs to accommodate them. Among the newest weapons invented in California include the M-10 service rifle and the M-20 Super Bazooka anti-tank rocket launcher."
+
+CAL_infantry_at:0 "M1 'Bazooka'"
+CAL_infantry_at2:0 "M20 'Super Bazooka'"
+CAL_support_weapons:0 "M1918 Browning MG & Stokes mortar"
+CAL_support_weapons2:0 "M1919A3 Browning MG & SBML two-inch mortar"
+CAL_support_weapons3:0 "M1919A6 Browning MG & M1 mortar"
+CAL_support_weapons4:0 "Winchester AR & M2 4.2 inch mortar"
+
+#Motorised
+
+CAL_motorized_equipment_1:0 "GMC CCKW"
+CAL_mechanized_equipment_1:0 "M2 Half Track Car"
+CAL_mechanized_equipment_1_short:0 "M2 Half Track Car"
+CAL_mechanized_equipment_2:0 "M3 Half-Track"
+CAL_mechanized_equipment_2_short:0 "M3 Half-Track"
+CAL_mechanized_equipment_3:0 "M5 Half-Track"
+CAL_mechanized_equipment_3_short:0 "M5 Half-Track"
+CAL_motorized_rocket_equipment:0 "T27 Xylophone"
+CAL_motorized_rocket_equipment_1:0 "T27 Xylophone"
+CAL_motorized_rocket_equipment_1_short:0 "Xylophone"
+
+#Artillery
+
+CAL_artillery_equipment_1:0 "75 mm Gun M1897"
+CAL_artillery_equipment_1_short:0 "75 mm Gun M1897"
+CAL_artillery_equipment_2:0 "105 mm M101A1"
+CAL_artillery_equipment_3:0 "155 mm M114"
+
+CAL_anti_tank_equipment_1:0 "37 mm Gun M3"
+CAL_anti_tank_equipment_1_short:0 "37 mm Gun M3"
+CAL_anti_tank_equipment_2:0 "57 mm Gun M1"
+CAL_anti_tank_equipment_3:0 "3-inch Gun M5"
+
+CAL_anti_air_equipment_1:0 "37 mm Gun M1"
+CAL_anti_air_equipment_1_short:0 "37 mm Gun M1"
+CAL_anti_air_equipment_2:0 "40 mm M1"
+CAL_anti_air_equipment_3:0 "90 mm Gun M3"
+
+CAL_rocket_artillery_equipment_1:0 "M8 Rocket"
+CAL_rocket_artillery_equipment_1_short:0 "M8"
+CAL_rocket_artillery_equipment_2:0 "M16 Rocket"
+CAL_rocket_artillery_equipment_2_short:0 "M16"
+
+#Tanks
+CAL_gw_tank_equipment:0 "Ford 3-Ton M1918"
+CAL_gw_tank_equipment_short:0 "M1918"
+
+CAL_light_tank_equipment_1:0 "M2 Light Tank"
+CAL_light_tank_equipment_1_short:0 "M2 Light"
+CAL_light_tank_equipment_2:0 "M3 Ha-Go"
+CAL_light_tank_equipment_2_short:0 "M3 Ha-Go"
+CAL_light_tank_equipment_3:0 "M4 Ide"
+CAL_light_tank_equipment_3_short:0 "M4 Ide"
+CAL_light_tank_artillery_equipment_2:0 "M8 Howitzer Motor Carriage"
+CAL_light_tank_artillery_equipment_2_short:0 "M8 HMC"
+CAL_light_tank_destroyer_equipment_1:0 "M6 Gun Motor Carriage"
+CAL_light_tank_destroyer_equipment_1_short:0 "M6 GMC"
+CAL_light_tank_destroyer_equipment_3:0 "T48 Gun Motor Carriage"
+CAL_light_tank_destroyer_equipment_3_short:0 "T48 GMC"
+
+CAL_medium_tank_equipment_1:0 "M3 Chi-Ha"
+CAL_medium_tank_equipment_1_short:0 "M3 Chi-Ha"
+CAL_medium_tank_equipment_2:0 "M4 Sentinel"
+CAL_medium_tank_equipment_2_short:0 "Sentinel"
+CAL_medium_tank_equipment_3:0 "T20 M27"
+CAL_medium_tank_equipment_3_short:0 "T20"
+CAL_medium_tank_artillery_equipment_1:0 "M7 Priest"
+CAL_medium_tank_artillery_equipment_1_short:0 "M7 Priest"
+CAL_medium_tank_artillery_equipment_2:0 "M12 Gun Motor Carriage"
+CAL_medium_tank_artillery_equipment_2_short:0 "M12 GMC"
+CAL_medium_tank_artillery_equipment_3:0 "M40 Gun Motor Carriage"
+CAL_medium_tank_artillery_equipment_3_short:0 "M40 GMC"
+CAL_medium_tank_destroyer_equipment_1:0 "M10 Wolverine"
+CAL_medium_tank_destroyer_equipment_1_short:0 "M10"
+CAL_medium_tank_destroyer_equipment_2:0 "M18 Hellcat"
+CAL_medium_tank_destroyer_equipment_2_short:0 "M18"
+CAL_medium_tank_destroyer_equipment_3:0 "M36 Jackson"
+CAL_medium_tank_destroyer_equipment_3_short:0 "M36"
+
+CAL_heavy_tank_equipment_1:0 "T1 Heavy Tank"
+CAL_heavy_tank_equipment_1_short:0 "T1 Heavy"
+CAL_heavy_tank_equipment_2:0 "M6A1 Heavy Tank"
+CAL_heavy_tank_equipment_2_short:0 "M6A1"
+CAL_heavy_tank_equipment_3:0 "M26 Pershing"
+CAL_heavy_tank_equipment_3_short:0 "Pershing"
+CAL_heavy_tank_artillery_equipment_3:0 "T92 Howitzer Motor Carriage"
+CAL_heavy_tank_artillery_equipment_3_short:0 "T92 HMC"
+
+CAL_super_heavy_tank_equipment_1:0 "T95 Super Heavy Tank"
+CAL_super_heavy_tank_equipment_1_short:0 "T95"
+CAL_modern_tank_equipment_1:0 "M46 Patton"
+CAL_modern_tank_equipment_1_short:0 "Patton"

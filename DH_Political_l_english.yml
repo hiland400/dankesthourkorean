@@ -1,0 +1,33 @@
+﻿l_english:
+
+### Starting Events ###
+dh.political.24.t:0 "Welcome to D A N K E S T  H O U R"
+dh.political.24.d:0 "The Dankest Hour Team proudly present Episode 1, the Return of Curtis - for Hearts of Iron 4! Don't forget to check out the Antarctic Commune..."
+dh.political.24.a:0 "Shut up and let me play."
+dh.political.24.b:0 "The Antarctic Commune?"
+
+dh.political.25.t:0 "P I N G U"
+dh.political.25.d:0 "And I looked, and behold, a pale horse! And its rider’s name was Trotsky, and an army of Pingus followed him. And they were given authority over a fourth of the earth, to kill with sword and with famine and with pestilence and by wild penguins of the earth.."
+dh.political.25.a:0 "...What have I done!?"
+
+dh.political.26.t:0 "..."
+dh.political.26.d:0 "You'll find out soon..."
+dh.political.26.a:0 "ok"
+
+dh.political.27.t:0 "Army spotted on South Georgia Islands and Islas Malvinas"
+dh.political.27.d:0 "A man and a horde of penguins have raised their flag over the South Georgia Islands and Islas Malvinas this morning. Officials are still puzzled as to how they reached the island as they saw no ships with which they could arrive in. Before the military could react, Tierra del Fuego was also seized by the horde."
+dh.political.27.a:0 "Who is this mysterious invader?"
+
+dh.political.28.t:0 "Spreading the Revolution"
+dh.political.28.d:0 "Glorious Secretary General Trotsky's invasion was a success! The capitalist pigs and traitors of the revolution shall fear the mighty armies of the great Antarctic Commune!"
+dh.political.28.a:0 "Onwards, comrades!"
+
+kr.political.24.t:0 "Kaiserreich Alpha 0.9.3"
+kr.political.24.d:0 "The Kaiserreich Team proudly present Kaiserreich alpha version 0.9.3 for Hearts of Iron 4! Our team has been working hard from every corner of the world to bring this new version to you. We hope you will enjoy playing it as much as we did making it.\n\nYou should be aware that the mod is designed with the assumption that the player will always annex all possible states in peace treaties, so make sure to do that!\n\nAll the normal options found in the starting events have been moved to the wonderful game options added in 1.6. You can now select the frequency of news events and what naming system states and VP's use, among other things. Don't forget to adjust them each game as they sadly aren't saved.\n\nFinally, we'd like to remind you this mod is still in Alpha, so expect bugs, crashes and various headaches. If you encounter any of these, please report them on our GitHub bug tracker.\n\nEnjoy!"
+kr.political.24.a:0 "Bring Back Hats or We Riot!"
+kr.political.24.c:0 "Do you guys have a super useful FAQ?"
+kr.political.24.e:0 "Something is missing..."
+
+kr.political.26.t:0 "Welcome to D A N K E S T  H O U R"
+kr.political.26.d:0 "The Dankest Hour Team proudly present Episode 1, the Return of Curtis - for Hearts of Iron 4!"
+kr.political.26.a:0 "Shut up and let me play."

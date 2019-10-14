@@ -1,0 +1,80 @@
+﻿l_english:
+
+  ################################################################################################################################################################################################
+  ### DANKEST HOUR
+  ################################################################################################################################################################################################
+
+	### Head of Government ###
+	 USA_Charles_Curtis_hog_mli:0 "Charles Curtis"
+	 RKM_King_Michael_I_hog_pau:0 "King Michael I"
+	 USA_William_Haywood_hog_syn:0 "William 'Big Bill' Haywood"
+	 CSA_Jack_Reed_hog_syn:0 "John Silas Reed"
+	 AML_George_Catlett_Marshall_Jr_hog_pau:0 "George Marshall"
+	 UOT_George_Catlett_Marshall_Jr_hog_pau:0 "George Marshall"
+	 AML_Omar_Nelson_Bradley_hog_pau:0 "Omar Bradley"
+	 1AM_Omar_Nelson_Bradley_hog_pau:0 "Omar Bradley"
+	 AML_George_Smith_Patton_Jr_hog_pau:0 "George Patton"
+	 3AM_George_Smith_Patton_Jr_hog_pau:0 "George Patton"
+	 AML_Dwight_D_Eisenhower_hog_pau:0 "Dwight D. Eisenhower"
+	 IKE_Dwight_D_Eisenhower_hog_pau:0 "Dwight D. Eisenhower"
+	 CGL_Joseph_Raymond_McCarthy_hog_sco:0 "Joseph McCarthy"
+	 CGL_Henry_Ford_hog_npo:0 "Henry Ford"
+	 FSA_Earl_Kemp_Long_hog_sde:0 "Earl Kemp Long"
+	 FSA_Eugene_Talmadge_hog_sco:0 "Eugene Talmadge"
+	 FSA_Robert_Rice_Reynolds_hog_npo:0 "Robert Rice Reynolds"
+	 TXS_William_Henry_Davis_'Alfalfa_Bill'_Murray_hog_npo:0 "William 'Alfalfa Bill' Murray"
+	 TXS_John_Nance_Garner_hog_sco:0 "John Nance Garner"
+	 TXS_John_Nance_Garner_hog_ade:0 "John Nance Garner"
+     SIC_Julius_Evola_hog_npo:0 "Julius Evola"
+     CSA_James_Burnham_hog_tot:0 "James Burnham"
+     CSA_Jay_Lovestone_hog_tot:0 "Jay Lovestone"
+     CSA_Howard_Scott_hog_tot:0 "Howard Scott"
+
+	### Foreign Minister ###
+	 AML_George_Catlett_Marshall_Jr_for_pau:0 "George Marshall"
+	 UOT_George_Catlett_Marshall_Jr_for_pau:0 "George Marshall"
+	 CGL_Joseph_Raymond_McCarthy_for_ade:0 "Joseph McCarthy"
+     SIC_Giuseppe_Bottai_for_npo:0 "Giuseppe Bottai"
+     SIC_Cesare_Maria_De_Vecchi_for_npo:0 "Cesare Maria De Vecchi"
+     SIC_Arthuro_Reghini_for_npo:0 "Arthuo Reghini"
+     CSA_Lawrence_Dennis_for_tot:0 "Lawrence Dennis"
+     CSA_Jay_Lovestone_for_tot:0 "Jay Lovestone"
+
+	### Economy Minister ###
+	 CGL_Henry_Ford_eco_npo:0 "Henry Ford"
+	 FSA_Robert_Rice_Reynolds_eco_npo:0 "Robert Rice Reynolds"
+     SIC_Paolo_Ignazio_Maria_Thaon_di_Revel_eco_npo:0 "Paolo Ignazio Maria di Revel"
+     SIC_Cesare_Maria_De_Vecchi_eco_npo:0 "Cesare Maria De Vecchi"
+     CSA_Frederick_L_Ackerman_eco_tot:0 "Frederick L. Ackerman"
+     CSA_M_King_Hubbert_eco_tot:0 "M. King Hubbert"
+     CSA_Howard_Scott_eco_tot:0 "Howard Scott"
+     CSA_Richard_C_Tolman_eco_tot:0 "Richard C. Tolman"
+
+	### Security Minister ###
+     SIC_Giuseppe_Bottai_sec_npo:0 "Giuseppe Bottai"
+     SIC_Lidio_Cipriani_sec_npo:0 "Lidio Cipriani"
+     SIC_Sabato_Visco_sec_npo:0 "Sabato Visco"
+     CSA_Lawrence_Dennis_sec_tot:0 "Lawrence Dennis"
+
+	### Intelligence Minister ###
+     SIC_Lidio_Cipriani_int_npo:0 "Lidio Cipriani"
+     SIC_Paolo_Ignazio_Maria_Thaon_di_Revel_int_npo:0 "Paolo Ignazio Maria Thaon di Revel"
+     CSA_Frederick_L_Ackerman_int_tot:0 "Frederick L. Ackerman"
+     CSA_M_King_Hubbert_int_tot:0 "M. King Hubbert"
+     CSA_Richard_C_Tolman_int_tot:0 "Richard C. Tolman"
+
+	### Chief of Staff ###
+	 AML_George_Catlett_Marshall_Jr_cos:0 "George Marshall"
+	 UOT_George_Catlett_Marshall_Jr_cos:0 "George Marshall"
+	 AML_Omar_Nelson_Bradley_cos:0 "Omar Bradley"
+	 1AM_Omar_Nelson_Bradley_cos:0 "Omar Bradley"
+
+	### Chief of Army ###
+	 AML_George_Smith_Patton_Jr_carm:0 "George Patton"
+	 3AM_George_Smith_Patton_Jr_carm:0 "George Patton"
+	 AML_Dwight_D_Eisenhower_carm:0 "Dwight D. Eisenhower"
+	 IKE_Dwight_D_Eisenhower_carm:0 "Dwight D. Eisenhower"
+
+	### Chief of Navy ###
+
+	### Chief of Air Force ###
